@@ -10,5 +10,11 @@
     "jest": "^23.6.0"
   },
   "repository": "git@github.com:doniyor2109/obj-assign.git",
-  "author": "doniyor2109 <doniyor2109@gmail.com>"
+  "author": "doniyor2109 <doniyor2109@gmail.com>",
+  "keywords": [
+    "object",
+    "assign",
+    "extend",
+    "properties"
+  ]
 }
